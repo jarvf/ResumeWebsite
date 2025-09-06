@@ -212,7 +212,7 @@ const projects = [
 </a>
 
             <a
-              href="/Jarvis_Falia_Resume_BA_Pivot_Final.pdf"
+              href="/resume.pdf"
               download
               className="px-8 py-4 border border-slate-600 rounded-lg font-semibold hover:bg-slate-800 transition-all duration-300 transform hover:scale-105"
             >
@@ -506,7 +506,7 @@ const projects = [
               <h4 className="font-semibold mb-4">Resources</h4>
               <div className="space-y-2">
                 <a 
-                  href="/Jarvis_Falia_Resume_BA_Pivot_Final.pdf" 
+                  href="/resume.pdf" 
                   download 
                   className="block text-slate-400 hover:text-white transition-colors"
                 >
